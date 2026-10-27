@@ -1,0 +1,197 @@
+# offa_story_ny_s02
+
+按剧情片段顺序和时间轴排列。标有“时刻未确认”的场景文字按片段收录；原作语录按所属角色归档。
+
+
+## offa_story_ny_s02 / offA_Story_NY_S02_01
+
+**asuna-wafuku：** 新年快乐，清晨来访，打扰了。
+
+<!-- text_id=3411808897 key=01_asuna-wafuku_NY_S02_01_01 time=1.0 -->
+
+**威尔艾米娜：** 昨天小姐承蒙您照顾了是也。
+
+<!-- text_id=2580988615 key=02_wilhelmina_NY_S02_01_02 time=1.5 -->
+
+**asuna-wafuku：** 没有没有……。
+
+<!-- text_id=294671373 key=03_asuna-wafuku_NY_S02_01_03 time=2.0 -->
+
+**威尔艾米娜：** 今天一早我们就吃了「御节料理」……真是别致又风味十足是也。
+
+<!-- text_id=1057804771 key=04_wilhelmina_NY_S02_01_04 time=2.5 -->
+
+**asuna-wafuku：** 是、是么？那就好……
+
+<!-- text_id=1430862873 key=05_asuna-wafuku_NY_S02_01_05 time=3.0 -->
+
+**夏娜：** 明日奈，新年快乐。
+
+<!-- text_id=2362361310 key=06_shana-wafuku_NY_S02_01_06 time=3.5 -->
+
+**asuna-wafuku：** 新年快乐。哇，夏娜穿的和服！真是太可爱了！
+
+<!-- text_id=1339751965 key=07_asuna-wafuku_NY_S02_01_07 time=4.0 -->
+
+**夏娜：** 明日奈的和服造型……也很漂亮呢。
+
+<!-- text_id=1476348798 key=08_shana-wafuku_NY_S02_01_08 time=4.5 -->
+
+**asuna-wafuku：** 谢谢。不过，还真是厉害啊，夏娜是自己穿好的吗？
+
+<!-- text_id=1568435089 key=09_asuna-wafuku_NY_S02_01_09 time=5.0 -->
+
+**夏娜：** 是威尔艾米娜帮我穿的……哪里不对吗？
+
+<!-- text_id=4231303282 key=10_shana-wafuku_NY_S02_01_10 time=5.5 -->
+
+**asuna-wafuku：** 不是哦，只是感叹穿得太好了。威尔艾米娜对于和服的穿法也很有研究呢。
+
+<!-- text_id=3883078853 key=11_asuna-wafuku_NY_S02_01_11 time=6.0 -->
+
+**威尔艾米娜：** 这是女仆应有的素质。
+
+<!-- text_id=46287343 key=12_wilhelmina_NY_S02_01_12 time=6.5 -->
+
+**夏娜：** 威尔艾米娜也查了很多资料呢，穿起来也花了不少时间。
+
+<!-- text_id=4267386030 key=13_shana-wafuku_NY_S02_01_13 time=7.0 -->
+
+**asuna-wafuku：** 已经很厉害了。一般来说，想学会和服的穿法都要参加专门的培训课程呢。
+
+<!-- text_id=3719191517 key=14_asuna-wafuku_NY_S02_01_14 time=7.5 -->
+
+**asuna-wafuku：** ……而且，这鲜艳的红色和樱花花纹，很适合夏娜呢。
+
+<!-- text_id=336118037 key=15_asuna-wafuku_NY_S02_01_15 time=8.0 -->
+
+**夏娜：** 是吗？这也是威尔艾米娜帮我选的。
+
+<!-- text_id=4038071822 key=16_shana-wafuku_NY_S02_01_16 time=8.5 -->
+
+**asuna-wafuku：** 原来如此。威尔艾米娜小姐真的很有品味呢。
+
+<!-- text_id=3775954453 key=17_asuna-wafuku_NY_S02_01_17 time=9.0 -->
+
+**威尔艾米娜：** 这是女仆应有的素质，不过……受到夸奖还是会有点不好意思是也。
+
+<!-- text_id=2760633175 key=18_wilhelmina_NY_S02_01_18 time=9.5 -->
+
+**夏娜：** 明日奈，那我们就出发吧。
+
+<!-- text_id=3950536370 key=19_shana-wafuku_NY_S02_01_19 time=10.0 -->
+
+**asuna-wafuku：** 嗯，走吧。
+
+<!-- text_id=4255243297 key=20_asuna-wafuku_NY_S02_01_20 time=10.5 -->
+
+
+## offa_story_ny_s02 / offA_Story_NY_S02_02
+
+**夏娜：** 好多人。没想到会有这么多人啊……
+
+<!-- text_id=2304584055 key=01_shana-wafuku_NY_S02_02_01 time=1.0 -->
+
+**asuna-wafuku：** 因为是正月初一嘛，这一天来初诣的人是最多的哦。
+
+<!-- text_id=3018023284 key=02_asuna-wafuku_NY_S02_02_02 time=1.5 -->
+
+**御坂美琴：** 啊，夏娜和明日奈，你们也来初诣啊。
+
+<!-- text_id=1522998953 key=03_mikoto_NY_S02_02_03 time=2.0 -->
+
+**asuna-wafuku：** 是美琴和黑猫啊，新年快乐。
+
+<!-- text_id=4103561060 key=04_asuna-wafuku_NY_S02_02_04 time=2.5 -->
+
+**黑猫：** 新年快乐。
+
+<!-- text_id=1713640296 key=05_kuroneko_NY_S02_02_05 time=3.0 -->
+
+**御坂美琴：** 嗯，参拜的步骤是什么来着？ 黑猫知道吗？
+
+<!-- text_id=2959514925 key=06_mikoto_NY_S02_02_06 time=3.5 -->
+
+**asuna-wafuku：** 嗯……要召唤神明的话，首先要投硬币奉上香火钱。
+
+<!-- text_id=3126427904 key=07_asuna-wafuku_NY_S02_02_07 time=4.0 -->
+
+**asuna-wafuku：** 其次是摇响大钟引起神明的注意，紧接着行二礼二拍手，报上自己的姓名住址以及许愿，
+
+<!-- text_id=1141478356 key=08_asuna-wafuku_NY_S02_02_08 time=4.5 -->
+
+**asuna-wafuku：** 最后再行上一礼。这就是拜神的方法啦。
+
+<!-- text_id=2706616640 key=09_asuna-wafuku_NY_S02_02_09 time=5.0 -->
+
+**asuna-wafuku：** ……嗯……应该是这样没错。
+
+<!-- text_id=879441052 key=10_asuna-wafuku_NY_S02_02_10 time=5.5 -->
+
+**夏娜：** 许愿是……许什么愿都行吗？
+
+<!-- text_id=1993135047 key=11_shana-wafuku_NY_S02_02_11 time=6.0 -->
+
+**asuna-wafuku：** 虽说不同的神明保佑的方向不一样，不过应该许什么都可以，只要是真心实意许的愿望。
+
+<!-- text_id=769499952 key=12_asuna-wafuku_NY_S02_02_12 time=6.5 -->
+
+**夏娜：** 神明大人，请让我拥有……一年份的菠萝包！
+
+<!-- text_id=1338063039 key=13_shana-wafuku_NY_S02_02_13 time=7.0 -->
+
+**御坂美琴：** 呃…虽然偏得有点远……但看得出来的确是真心实意的愿望。
+
+<!-- text_id=2011737641 key=14_mikoto_NY_S02_02_14 time=7.5 -->
+
+**黑猫：** 接下来就是绘马了。把心愿写在绘马上供奉起来，愿望就能具现化。
+
+<!-- text_id=2818659732 key=15_kuroneko_NY_S02_02_15 time=8.0 -->
+
+**夏娜：** 什么！那我不是还要在绘马上画满菠萝包才行？
+
+<!-- text_id=327457663 key=16_shana-wafuku_NY_S02_02_16 time=8.5 -->
+
+**黑猫：** ……大概是你画多少，就会得到多少菠萝包吧。
+
+<!-- text_id=3268881716 key=17_kuroneko_NY_S02_02_17 time=9.0 -->
+
+**夏娜：** 我画！画一百个……不对，一千个……以上！
+
+<!-- text_id=1652604783 key=18_shana-wafuku_NY_S02_02_18 time=9.5 -->
+
+**asuna-wafuku：** 黑猫，不要这样骗我们单纯的夏娜啦……。
+
+<!-- text_id=3622444164 key=19_asuna-wafuku_NY_S02_02_19 time=10.0 -->
+
+**御坂美琴：** 说起来，昨天大晦日，大家都是怎么过的？
+
+<!-- text_id=651809573 key=20_mikoto_NY_S02_02_20 time=10.5 -->
+
+**asuna-wafuku：** 昨天么？我出门采购了，然后回家做了年越荞麦面和御节料理。
+
+<!-- text_id=3702589880 key=21_asuna-wafuku_NY_S02_02_21 time=11.0 -->
+
+**夏娜：** 我也出门买东西了。然后在商店街遇到明日奈，知道了御节料理这种食物。
+
+<!-- text_id=469934523 key=22_shana-wafuku_NY_S02_02_22 time=11.5 -->
+
+**asuna-wafuku：** 嗯，然后我就邀请夏娜今天一起来初诣啦。
+
+<!-- text_id=3763028816 key=23_asuna-wafuku_NY_S02_02_23 time=12.0 -->
+
+**御坂美琴：** 哦，原来是这样啊。
+
+<!-- text_id=4290088365 key=24_mikoto_NY_S02_02_24 time=12.5 -->
+
+**asuna-wafuku：** 美琴和黑猫昨天是怎么过的呢？
+
+<!-- text_id=1036024576 key=25_asuna-wafuku_NY_S02_02_25 time=13.0 -->
+
+**御坂美琴：** 啊，我可惨了……简直是噩梦一般的跨年。
+
+<!-- text_id=3506941365 key=26_mikoto_NY_S02_02_26 time=13.5 -->
+
+**黑猫：** 呵呵，昨天我在书店里碰到了“奇迹”呢。
+
+<!-- text_id=1096973736 key=27_kuroneko_NY_S02_02_27 time=14.0 -->
